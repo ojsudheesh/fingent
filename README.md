@@ -2,6 +2,8 @@
 
 Fingent Global Solutions Machine Test
 
+This project is using PHP as backend and MySql as Database.
+
 1. Clone the project using the below code.
 
 	git clone git@github.com:ojsudheesh/fingent.git
